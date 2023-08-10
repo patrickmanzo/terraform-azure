@@ -14,7 +14,7 @@
 
 Clone this repo:
 
-## git clone https://github.com/patrickmanzo/terraform-azure-lab
+## git clone https://github.com/patrickmanzo/terraform-azure
 
 **It is necessary to have Terraform and Azure CLI installed**
 
